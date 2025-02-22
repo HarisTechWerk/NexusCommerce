@@ -27,10 +27,3 @@
 
 ---
 
-##  Screenshot
-(Upload a screenshot and paste the URL here)
-
----
-
-##  Next Task: User Profile Form
- Next, we will build a **User Profile Form with validation**.
